@@ -61,14 +61,17 @@ A modern, responsive **Stopwatch Web Application** with lap timing, dark/light m
 
 ## ⚡ How to Run:
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/madhumithamohan2801/stopwatch-web.git
+GitHub repository link  is:
+
+https://github.com/madhumithamohan2801/stopwatch-web
 
 📜 License:
 
-This project is licensed under the MIT License – see the LICENSE file for details.
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+
 
 👩‍💻 Author:
 
-Madhumitha Mohankumar 🎓 B.E. CSE | Web Developer Intern | Java Full Stack Learner 🔗 GitHub Repository 📫 Connect on LinkedIn 🌟 Star the repo if you like it! take it as reference
+Madhumitha Mohankumar 
+
+🎓 B.E. CSE | Web Developer Intern | Java Full Stack Learner 🔗 GitHub Repository 📫 Connect on LinkedIn 🌟 Star the repo if you like it! take it as reference
