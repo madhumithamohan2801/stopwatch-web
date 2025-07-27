@@ -47,8 +47,9 @@ A modern, responsive **Stopwatch Web Application** with lap timing, dark/light m
 
 ### Stopwatch Interface:
 
-![Stopwatch Screenshot 1](stopwatch-web./img/screenshot1.png)
-![Stopwatch Screenshot 2](stopwatch-web./img/screenshot2.png)
+![Stopwatch Screenshot 1](./img/screenshot1.png)
+![Stopwatch Screenshot 2](./img/screenshot2.png)
+
 
 ---
 
