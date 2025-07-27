@@ -24,11 +24,17 @@ A modern, responsive **Stopwatch Web Application** with lap timing, dark/light m
 ## 📂 Project Structure
 
 ├── index.html # Main HTML file
+
 ├── style.css # Styling (light & dark modes)
+
 ├── script.js # Stopwatch logic
+
 ├── jquery.js # Theme & local storage
+
 ├── img/ # Image assets (logo, favicon)
+
 ├── audio/ # Sound effects
+
 └── README.md # Project documentation
 
 ---
