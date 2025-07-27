@@ -63,7 +63,7 @@ A modern, responsive **Stopwatch Web Application** with lap timing, dark/light m
 
 GitHub repository link  is:
 
-https://github.com/madhumithamohan2801/stopwatch-web/
+https://madhumithamohan2801.github.io/stopwatch-web/
 
 📜 License:
 
